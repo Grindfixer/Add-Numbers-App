@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Add Numbers App</string>
+    <string name="enter_a_number_1Text">Enter a number</string>
+    <string name="enter_another_number_2Text">Enter another number</string>
+    <string name="addText">Add</string>
+    <string name="resultTetxt">Result</string>
+</resources>
